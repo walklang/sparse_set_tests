@@ -254,3 +254,4 @@ If you want to use Boost you can uncomment the USE_BOOST define.  The steps cons
 ## License
 
 This article, along with any associated source code and files, is licensed under [The Code Project Open License (CPOL)](http://www.codeproject.com/info/cpol10.aspx)
+
